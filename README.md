@@ -1,4 +1,4 @@
-## Hi there 👋
+                                                                                       konnichiwa watashi wa Aunkan desu 👋
 # 💫 About Me:
 🔭 I’m currently working on Project Recommendation Engine<br>👯 I’m looking to collaborate with people interested in python projects<br>🌱 I’m currently learning python<br>🤝 Here is my Linkedin account https://www.linkedin.com/in/aunkan-mondal-625bb8328?utm_source=share_via&utm_content=profile&utm_medium=member_android<br>💬 You can reach me: illusion01357@gmail.com<br>
 
